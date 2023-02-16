@@ -1,0 +1,288 @@
+[
+    {
+      "question": "340B Drug Discount Program",
+      "answer": "This program requires drug manufactureres to provide drugs at significantly reduced prices to contracted or eligible pharmacies. Ex: Medicare."
+    },
+    {
+      "question": "Affordable Care Act (ACA)",
+      "answer": "designed to expand access, improve quality of care, and reduce costs, and more of a focus on prevention and wellness. Increased pharmacists’ role in MTM and ability to provide more affordable medications. Also, allows for a better approval process for generics through the FDA, increased 340(b) drug discount program, better pharmacy reimbursement, and introduced ACA short cycle to reduce wasteful dispensing for long-term care facilities."
+    },
+    {
+      "question": "ACA Short Cycle",
+      "answer": "Regulation for Solid oral, Brand drugs being dispensed under Medicare Part D in a Skilled Nursing Facility to be dispensed in quantities for 14 days or less. Implemented to reduce prescription drug waste due to patient’s transitioning to a different level of care, death of a patient, adverse reactions, etc. when the medication is dispensed for a 30-day fill."
+    },
+    {
+        "question": "Acute",
+        "answer": "An acute condition is limited in time as the treatments provided have the potential to fully cure."
+    },
+    {
+        "question": "Adjudication",
+        "answer": "The process of requesting to be paid for a claim submitted to an insurance company."
+    },
+    {
+        "question": "Average Unit Cost",
+        "answer": " A per pill/unit price that is calculated based on the package price and the total package size. This cost is calculated at the time of receiving inventory and is calculated by the system."
+
+    },
+    {
+        "question": "Average Wholesale Price (AWP)",
+        "answer": "The average wholesale price represents the most common wholesaler price charged to the retailer, hospital, or pharmacy"
+    },
+    {
+        "question": "Average AWP (AAWP)",
+        "answer": " The average for all AWPs for each multi-source drug product in a given GPPC, not including the originator (brand) drug products."
+    },
+    {
+        "question": "Batch",
+        "answer": "A grouping of prescriptions that are going through workflow steps (i.e. pharmacist review, label printing, packaging, etc.) in order to be dispensed to the facility/patients."
+    },
+    {
+        "question": "Brand Name Drug",
+        "answer": "A drug that is protected by a patent and only made by one manufacturer. Brand name drugs cost more and once the patent runs out, other companies may make a generic equivalent."
+    },
+    {
+        "question": "Chronic",
+        "answer": "A chronic condition represents a health problem that persists through time requiring various degrees of ongoing health care. Anytreatment can only alleviate the symptoms, as curative treatments have yet to be found."
+    },
+    {
+        "question": "Clinical Screenings",
+        "answer": "also referred to DUR, Drug Utilization Review, allow pharmacists to determine medication interactions, drug allergies, incorrect drug dosages, imporoper drug treatment duration, drug and disease contraindications, ect. These screenings are performed during the initial review step."
+    },
+    {
+        "question": "Compound",
+        "answer": "A mixture of two or more drug ingredients, used to customize a medication to meet the needs of the patient. AS prescription is needed for a compound."
+    },
+    {
+        "question": "Controlled Substance",
+        "answer": "A drug"
+    },
+    {
+        "question": "Cycle Fill",
+        "answer": "Dispensing method used by pharmacies to quickly pull and fill large numbers of prescriptions that are due to be filled for multiple patients.  In FrameworkLTC, cycle fill dispensing is created through the FLashRx function."
+    },
+    {
+        "question": "Drug Enforcement Administration (DEA)",
+        "answer": "The DEA regulates and monitors the dispensing of all controlled substances.  The DEA class schedules range from C-1 through C-5, indicating the level of potential abuse for that particular medication."
+    },
+    {
+        "question": "Direct Price",
+        "answer": "The price charged by the manufactuer and is only available for drug products distributed by the manufacturer."
+    },
+    {
+        "question": "Drug Utilization Review",
+        "answer": "DUR is used in three different places in Framework LTC for different purposes: initial review, DUR Builder for screenings, (e.g. duplicate therapy, drug interractions) and DUR Level of Effort for compounds and IVs."
+    },
+    {
+        "question": "Electronic Claim Submission",
+        "answer": "The electronic processing to adjudicate claims to thirt party insurance companies."
+    },
+    {
+        "question": "Final Review",
+        "answer": "Also called PV2, is when the pharmacist conducts a final check of the medication in order and validate that the medication being dispensed in the bottle or other type of packaging matches the label."
+    },
+    {
+        "question": "Formulary",
+        "answer": "The list of drugs that are dispensed by the pharmacy and that they keep stocked for their inventory. The formulary can also relate to the facility or insurance plan, designating allowable medications at the facility or compensable and non-compensable medication by the insurance plan."
+    },
+    {
+        "question": "FrameworkLTC",
+        "answer": "Software designed for the institutional pharmacy provider (a retail component is also included)."
+    },
+    {
+        "question": "Generic Drug",
+        "answer": "A generic drug is an equivalent drug to an original brand name drug. A generic can be manufactured once the patent has expired for the brand name drug. It has the same active ingredients, dosage form, and strength."
+    },
+    {
+        "question": "Generic Product Identifier",
+        "answer": "The GPI is a 14-character coding system used to identify drugs. The first 10 digits define the therapeutic class code and the last 4 define the route, dosage, and strength. This can be used to link drugs in order to define pharmaceutically equivalent drug products for easier and more accurate drug substitution."
+    },
+    {
+        "question": "House Stock",
+        "answer": "Bulk items that are sold to the facility and kept onsite at the facility. These items are then dispensed at the facility, e.g. aspirin, antacids, cold/allergy medications."
+    },
+    {
+        "question": "Institutional Pharmacy",
+        "answer": "The term Institutional Pharmacy or Institutional Facility is understood in the industry to mean a Pharmacy servicing entities other than traditional Retail. These may be a stand-alone or a combination of Retail and Institutional."
+    },
+    {
+        "question": "Institutional Facility",
+        "answer": "refers to a multitude of settings where people reside e.g. LTC Facilities, ALF, Jail, Prison, Hospice, Group Homes, etc."
+    },
+    {
+        "question": "Initial Review",
+        "answer": "Also called PV1, is when the pharmacist verifies that the prescription entered into the system matches the written prescription from the physician. During this step, the pharmacist also conducts the clinical screenings."
+    },
+    {
+        "question": "Inventory",
+        "answer": "The physical stock the pharmacy has onsite for each medication and supply item they dispense to their facilities/patients."
+    },
+    {
+        "question": "I.V.",
+        "answer": "– An intravenous liquid drug administered to a patient through a needle or syringe. A prescription is needed for an IV. Some IV’s will need to be built by a pharmacist, where two or more drug ingredients are combined."
+    },
+    {
+        "question": "Literal Orders",
+        "answer": "Any non-drug orders that are completed/administered by the nurses at a facility. Examples include: special diets, blood pressure checks, blood work, etc."
+    },
+    {
+        "question": "Long Term Care (LTC)",
+        "answer": "A variety of services/settings that help meet the medical and non-medical needs of the elderly, chronically ill or disabled individuals who are unable to care for themselves."
+    },
+    {
+        "question": "MAC Pricing",
+        "answer": "State Maximum Allowable Cost programs are used for Medicare and Medicaid plans. It is the maximum price the state will pay for a given generic drug product regardless of its package size or manufacturer."
+    },
+    {
+        "question": "Medication Administration Record (MAR)",
+        "answer": "Report used at the facilities that lists all of the patient’s medications and literal orders along with when the medication/order is to be taken or completed. The nurses will then record when the medication was administered and when a literal order was completed."
+    },
+    {
+        "question": "Medicaid",
+        "answer": "The government run health care program designed to provide medical coverage for families and individuals with low income or limited resources."
+    },
+    {
+        "question": "Medicare",
+        "answer": "The national health care program designed to provide medical coverage for individuals aged 65 and older who have worked and paid into the social security system. It also provides health insurance coverage for individuals under 65 with a disability, end stage renal disease or ALS."
+    },
+    {
+        "question": "Medicare Part D",
+        "answer": "A stand-alone prescription drug benefit program provided to individuals who are eligible for Part A or B of Medicare. Part D plans are administered by private health insurance companies and each plan determines which drugs are covered."
+    },
+    {
+        "question": "Monograph",
+        "answer": "A drug monograph is an educational pamphlet that explains the medication, including use and possible side effects."
+    },
+    {
+        "question": "Method of Payment (MOP)",
+        "answer": "Examples include: third party insurance plans, private, facility, guarantor, for LTC or invoice, cash, and credit for a retail facility."
+    },
+    {
+        "question": "Medication Therapy Management (MTM)",
+        "answer": "Allows pharmacists to perform patient assessments, comprehensive medication reviews, formulate a medication treatment plan, monitor efficacy and safety of medication therapy, and enhance medication adherence through patient education. Also includes documenting and communicating MTM services to prescribers. Overall goal, is to ensure optimal drug therapy and reduce adverse interactions. Covered under Medicare Part D Prescription Coverage."
+    },
+    {
+        "question": "Multiple Source Generic Drugs",
+        "answer": "A generic drug is considered to be multiple source when there are three or more versions of the product being manufactured and are distributed by at least three different suppliers. Aspirin and cough syrup are considered multiple source generic drugs because there are so many different generic options."
+    },
+    {
+        "question": "NABP",
+        "answer": "National Association of Boards of Pharmacy is the only professional association that represents the state boards of pharmacy in all 50 United States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands, New Zealand, eight Canadian Provinces, and four Australian states."
+    },
+    {
+        "question": "National Provider Identifier (NPI)",
+        "answer": "For purposes of administrative simplification, the Health Insurance Portability and Accountability Act of 1996 mandated the adoption of a “standard, unique health identifier for each individual, employer, health plan, and health care provider for use in the health care system”. These identifiers, known as National Provider Identifiers are issued by the National Provider System."
+    },
+    {
+        "question": "NCPDP (National Council for Prescription Drug Programs)",
+        "answer": "The national counselor is a not-for-profit organization that develops industry standards to improve patient safety and outcomes."
+    },
+    {
+        "question": "Package Price",
+        "answer": "The price the pharmacy paid for entire package."
+    },
+    {
+        "question": "Packaging",
+        "answer": "A workflow step, in which, the medication is moved from a bulk bottle to the bottle or other package type that is being dispensed to the patient."
+    },
+    {
+        "question": "Physicians Order (PO)",
+        "answer": " A physician’s order is similar to the MAR but is signed by the physician designating the current prescriptions or treatments for each patient."
+    },
+    {
+        "question": "Post",
+        "answer": "Closing of a batch/group of prescriptions designating that all workflow steps have been completed, moving the prescriptions dispensed into the patient’s historical records."
+    },
+    {
+        "question": "Price",
+        "answer": "The price is determined by using Unit Price (AWP, DP, HCFA FFP, or WAC) multiplied by the actual quantity dispensed, plus a mark-up factor and/or a dispensing fee."
+    },
+    {
+        "question": "PRN",
+        "answer": "The abbreviation PRN stands for pro re nata, for the emergency. PRN medications are taken as needed. Examples of PRN medications include but are not limited to pain relievers, antacids, and cough/cold medications."
+    },
+    {
+        "question": "Profile Only",
+        "answer": "A medication on the patient’s profile for the pharmacy to conduct clinical screenings against but is not physically dispensed out of the pharmacy."
+    },
+    {
+        "question": "Refill",
+        "answer": "A refill is a prescription prescribed by a physician with a specific number of fills allowed. In FrameworkLTC, a refill will have two numbers associated to it, an Rx number and a Reorder number. When a prescription is entered as a refill and reorder numbers stay each time the drug is ordered and dispensed."
+    },
+    {
+        "question": "Refill on Demand",
+        "answer": "When a prescription is designated as a refill on demand item, the pharmacy will only fill it when requested by the patient or nursing facility."
+    },
+    {
+        "question": "Reorder",
+        "answer": "A reorder in FrameworkLTC refers to orders that a patient will be taking month after month until the physician discontinues it. There are no limits on the number of times the drug can be ordered and is in essence a new prescription each month when the physician signs the physicians order sheet for that patient. In FrameworkLTC, the reorder number will stay the same, linking the orders together, but the Rx number will change every time the prescription is filled."
+    },
+    {
+        "question": "Short Cycle",
+        "answer": "A designation used to denote medications that are not dispensed in a full monthly supply. Typically dispensed in 7 or 14 day supplies."
+    },
+    {
+        "question": "SIG Codes",
+        "answer": "Abbreviations used by the pharmacy to designate the physician’s written directions of how the medication should be taken by the patient."
+
+    },
+    {
+        "question": "Significant Med",
+        "answer": "A significant med is any medication that has severe implications. When designated in the system, these prescriptions can be printed on a different report."
+    },
+    {
+        "question": "Single Source Generic Drugs",
+        "answer": "A single manufacturer has obtained exclusive rights to make a generic form of a brand name drug once the patent has expired and is only for a specified period of time. Omeprazole is a single source generic used for heartburn and is a generic version of Prilosec"
+    },
+    {
+        "question": "Skilled Nursing Facility (SNF)",
+        "answer": "A skilled nursing facility is similar to a nursing home but they offer more “skilled” and short-term medical care including rehabilitation services. Often times, a patient in a SNF is recovering from a stroke or is suffering from an acute medical condition, such as an injury or infection. While in this type of facility, the patient will receive around-the-clock care, assistance with daily activities including eating and taking their medications."
+    },
+    {
+        "question": "Standing Orders",
+        "answer": "A list of drug or literal orders that can be setup for each facility that each patient may need to have on their profile. When a new patient is admitted into the facility, the list of standing orders will open allowing them to be chosen so they are automatically be added to their profile."
+    },
+    {
+        "question": "Toting",
+        "answer": " A workflow step, in which, the prescription is put into a tote/bin so it can be delivered to the facility."
+    },
+    {
+        "question": "Total Parenteral Nutrition (TPN)",
+        "answer": "This is a type of IV, which is a complete form of nutrition, containing protein, sugar, fat, and added vitamins and minerals as needed for each individual."
+    },
+    {
+        "question": "Trademarked Drug",
+        "answer": "A Trademarked drug is one that has undergone the process of legally registering their name, slogan, pictures, symbols, etc. that identify the company and its product. Tylenol and Advil are examples of trademarked generic products, Strattera (ADHD drug) is an example of a trademarked prescription drug."
+    },
+    {
+        "question": "Treatment Drug",
+        "answer": "A drug that is used to treat a specific medical condition. For example, Adderall is a treatment drug for ADHD and Lipitor is a treatment drug for highcholesterol."
+    },
+    {
+        "question": "Unit Dose (UD)",
+        "answer": "A designation used for prescriptions dispensed more than once per month (e.g. a weekly supply) or billing period, but they are only billed one time during that month. When a prescription is designated as a unit dose dispense, it cannot be billed until they are composited."
+    },
+    {
+        "question": "Unit Dose Composite",
+        "answer": "A type of monthly billing used when prescriptions are dispensed in smaller (e.g. daily, weekly, or bi-weekly) quantities and then combined at the end of the month in order to be billed out to an insurance company. For example, if the prescription is dispensed weekly, with a quantity of 7 pills, the insurance may not pay for the dispense unless it is for a quantity of 30 pills. The composite will combine these dispenses to make one dispense for 30 for billing purposes."
+    },
+    {
+        "question": "Unit Dose Packaging",
+        "answer": "A type of packaging that contains one dose. This is a single-dose packaging type."
+    },
+    {
+        "question": "Units of Measure",
+        "answer": "The method used to measure the dosage of a drug and is used to determine dispensing and pricing of drug products. It is based on three values: grams, milliliters, and each…where “each” refers to tablets, capsules or vials."
+    },
+    {
+        "question": "Unit Price",
+        "answer": "The price of an individual unit (tablet, capsule, lozenge, milliliter, gram, or suppository)."
+    },
+    {
+        "question": "Wholesaler Acquisition Cost (WAC)",
+        "answer": "This is the estimated cost to the wholesaler by the drug manufacturer."
+    },
+    {
+        "question": "Workflow",
+        "answer": "Steps that are taken in order to get the prescription delivered to the patient. Some of the workflow steps include, reviewing the prescription, packaging the prescription, and toting the prescription for delivery."
+    } 
+  ]
