@@ -1,33 +1,34 @@
 <template>
-    <div class="flashcard" @click="flipCard">
-      <div v-show="!isToggle">
-        <div class="card-content center">
-          <p>{{ front }}</p>
-        </div>
-      </div>
-      <div v-show="isToggle">
-        <div class="card-content center">
-          <p>{{ back }}</p>
-        </div>
-      </div>
+  <div>
+    <div v-for="card in cards" :key="card.id">
+      <Flashcard :front="card.front" :back="card.back" />
     </div>
-  </template>
+  </div>
+</template>
 
 <script>
-    export default {
-  props: {
-    front: {
-      type: String,
-      default: 'default front',  //needs to call json file with questions
-    },
-    back: {
-      type: String,
-      default: 'default back', //needs to call json file with answers
+import axios from 'axios'
+import Flashcard from '@/components/Flashcard.vue'
+
+export default {
+  components: {
+    Flashcard
+  },
+  data() {
+    return {
+      cards: []
     }
+  },
+  mounted() {
+    axios
+      .get('/path/to/cards.json')
+      .then(response => {
+        this.cards = response.data
+      })
   }
 }
-    
 </script>
+    
 
 <style>
     .flashcard {

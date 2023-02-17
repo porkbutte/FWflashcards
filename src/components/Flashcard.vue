@@ -1,17 +1,26 @@
-
-
 <template>
-  <div id="flashcard front">
-    <h1>This is a Question</h1>
-  </div>
-  <div id="flashcard back">
-    <h1>This is an answer</h1>
+  <div>
+    <div v-if="showFront" @click="showFront = false">{{ front }}</div>
+    <div v-else @click="showFront = true">{{ back }}</div>
   </div>
 </template>
 
 <script>
- export default {
-  component: { Flashcard } 
- 
+export default {
+  props: {
+    front: {
+      type: String,
+      required: true
+    },
+    back: {
+      type: String,
+      required: true
+    }
+  },
+  data() {
+    return {
+      showFront: true
+    }
+  }
 }
 </script>
